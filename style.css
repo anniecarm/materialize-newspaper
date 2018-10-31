@@ -1,0 +1,49 @@
+.brand-logo img {width: 50%;
+				height: 50%;
+				 padding-left: 0;
+				 margin-left: 0;
+				}
+
+.nav-wrapper {
+	background-color: #F1F3F2;
+}
+
+
+.nav ul li{
+	margin: 0 auto;
+}
+
+.link {font-family: "Balto",Helvetica, sans-serif;
+	color: #262727 !important;}
+
+
+body h1 {
+	color:#333333;
+	font-style: bold;
+	font-size:20px;
+}
+
+body h2 {
+	color: #6E6F6F;
+	font-size: 14px;
+}
+
+body h3 {
+	color:#6E6F6F;
+	font-size: 10px;
+}
+
+.h11 {
+	font-family: Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+@media only screen and (max-width: 992px) {
+nav .brand-logo.left {
+    left: 0.0rem;
+}
+}
+
